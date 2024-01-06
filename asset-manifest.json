@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.0bbaf66e.css",
-    "main.js": "/static/js/main.92fbca4a.js",
+    "main.js": "/static/js/main.95b0cc6f.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.6b18baac.chunk.js": "/static/js/769.6b18baac.chunk.js",
     "static/media/clearcan.png": "/static/media/clearcan.e43a58de38b269880401.png",
+    "static/media/react.png": "/static/media/react.0fc1dbcb921729c84b72.png",
     "static/media/lux.png": "/static/media/lux.7b26402c33ba162cd583.png",
     "static/media/rexona.png": "/static/media/rexona.75d82eee40dbc54122a8.png",
     "static/media/signal.png": "/static/media/signal.6b5250c0dc8669ee5bc7.png",
@@ -31,7 +32,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.0bbaf66e.css.map": "/static/css/main.0bbaf66e.css.map",
-    "main.92fbca4a.js.map": "/static/js/main.92fbca4a.js.map",
+    "main.95b0cc6f.js.map": "/static/js/main.95b0cc6f.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -39,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.0bbaf66e.css",
-    "static/js/main.92fbca4a.js"
+    "static/js/main.95b0cc6f.js"
   ]
 }
