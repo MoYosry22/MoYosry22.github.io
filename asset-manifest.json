@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0bbaf66e.css",
-    "main.js": "/static/js/main.b652c198.js",
+    "main.js": "/static/js/main.e8b2e0a2.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -16,6 +16,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/lerave.png": "/static/media/lerave.cd7d9e708ba9791bd841.png",
     "static/media/comfort.png": "/static/media/comfort.24a380cebead7a6ee4a8.png",
+    "static/media/firestock.png": "/static/media/firestock.96ac2ebe09f362d8832a.png",
     "static/media/unilever.png": "/static/media/unilever.ca0a4a933e53602eaf46.png",
     "static/media/nawras.png": "/static/media/nawras.c0df0f41e50d7400bb23.png",
     "static/media/itps.png": "/static/media/itps.1b063a29b2ba597e4a1e.png",
@@ -32,7 +33,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.0bbaf66e.css.map": "/static/css/main.0bbaf66e.css.map",
-    "main.b652c198.js.map": "/static/js/main.b652c198.js.map",
+    "main.e8b2e0a2.js.map": "/static/js/main.e8b2e0a2.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -40,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.0bbaf66e.css",
-    "static/js/main.b652c198.js"
+    "static/js/main.e8b2e0a2.js"
   ]
 }
